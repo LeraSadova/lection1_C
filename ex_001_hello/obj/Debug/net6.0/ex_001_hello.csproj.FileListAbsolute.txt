@@ -1,0 +1,15 @@
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\bin\Debug\net6.0\ex_001_hello.exe
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\bin\Debug\net6.0\ex_001_hello.deps.json
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\bin\Debug\net6.0\ex_001_hello.runtimeconfig.json
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\bin\Debug\net6.0\ex_001_hello.dll
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\bin\Debug\net6.0\ex_001_hello.pdb
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\obj\Debug\net6.0\ex_001_hello.csproj.AssemblyReference.cache
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\obj\Debug\net6.0\ex_001_hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\obj\Debug\net6.0\ex_001_hello.AssemblyInfoInputs.cache
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\obj\Debug\net6.0\ex_001_hello.AssemblyInfo.cs
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\obj\Debug\net6.0\ex_001_hello.csproj.CoreCompileInputs.cache
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\obj\Debug\net6.0\ex_001_hello.dll
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\obj\Debug\net6.0\refint\ex_001_hello.dll
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\obj\Debug\net6.0\ex_001_hello.pdb
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\obj\Debug\net6.0\ex_001_hello.genruntimeconfig.cache
+C:\Users\SadovaVA\Desktop\ex_s\ex_001_hello\obj\Debug\net6.0\ref\ex_001_hello.dll
