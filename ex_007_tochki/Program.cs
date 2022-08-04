@@ -44,4 +44,5 @@ while (count<10000)
     Console.WriteLine("+");
     count=count+1;
 }
+Console.SetCursorPosition(0, yc+1);
 
